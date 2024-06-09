@@ -1,7 +1,7 @@
 VAG EDC15P Suite are software suites that enable you to edit the paramaters (maps) inside the engine management system.
 T5Suite for Trionic 5, T7Suite for Trionic 7 and T8Suite for Trionic 8.
 Motronic Suite for Volvo Motronic M4.3, M4.4 and ME7.
-VAGEDC15P Suite for VW/Audi/Seat/Skoda EDC16P (PDxxx) ECUs.
+VAGEDC15P Suite for VW/Audi/Seat/Skoda 
 
 If you're just starting out or about to start at this point, please do read the provided manuals first!
 
